@@ -1,0 +1,10 @@
+#Algoritmia Genetica
+##inidice
+-
+-
+-
+-
+-
+-
+-
+-
