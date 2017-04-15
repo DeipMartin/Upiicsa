@@ -5,6 +5,20 @@ Este es un repositorio con proyectos de la escuela que buscan apoyar a los estud
 
 ## ¿En que consiste?
 El repositorio esta conformado por algunas de las diferentes unidades de aprendizade de la UPIICSA con los temas correspondientes.
+## "Materias"
+
+### -Algoritmos Computacionales
+
+### -Teoria de la computacion 
+
+### -Compiladores 
+
+### -Fundamentos de Inteligencia Artificial 
+
+### -Logica de programacion
+
+### -Estructura de datos 
+
 
 # Upiicsa Repo
 
