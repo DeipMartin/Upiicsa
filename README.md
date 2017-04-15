@@ -19,6 +19,10 @@ El repositorio esta conformado por algunas de las diferentes unidades de aprendi
 
 ### -Estructura de datos 
 
+### -Metodos Numericos 
+
+### -Programacion Web (HTML5, CSS3 , JS & PHP)
+
 
 # Upiicsa Repo
 
