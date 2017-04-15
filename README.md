@@ -7,6 +7,14 @@ Este es un repositorio con proyectos de la escuela que buscan apoyar a los estud
 El repositorio esta conformado por algunas de las diferentes unidades de aprendizade de la UPIICSA con los temas correspondientes.
 ## "Materias"
 
+### -Ingenieria de Diseño
+
+### -Ingenieria de Software
+
+### -Ingenieria de Pruebas
+
+### -Ingenieria de Requerimientos
+
 ### -Algoritmos Computacionales
 
 ### -Teoria de la computacion 
@@ -23,6 +31,7 @@ El repositorio esta conformado por algunas de las diferentes unidades de aprendi
 
 ### -Programacion Web (HTML5, CSS3 , JS & PHP)
 
+### -Fundamentos de Programacion Funcional
 
 # Upiicsa Repo
 
