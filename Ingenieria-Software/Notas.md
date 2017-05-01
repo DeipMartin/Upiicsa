@@ -32,7 +32,7 @@ Metodologia .
 A	Etapas del proceso
 A1	Obtención de los requisitos
 A2	Análisis de requisitos
-A3	Limitaciones[14]
+A3	Limitaciones
 A4	Especificación
 A5	Arquitectura
 A6	Programación
