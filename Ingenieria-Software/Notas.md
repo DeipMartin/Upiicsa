@@ -28,8 +28,23 @@ Implementacion  .
 
 Notaciones .
 
-Metodologias .
+Metodologia .
+A	Etapas del proceso
+A1	Obtención de los requisitos
+A2	Análisis de requisitos
+A3	Limitaciones[14]
+A4	Especificación
+A5	Arquitectura
+A6	Programación
+A7	Desarrollo de la aplicación
+A8	Pruebas de software
+A9	Implementación
+A10	Documentación
+A11	Mantenimiento
 
 Modelos y Ciclos de vida del Software .
 
 Etica .
+
+# Arquitectura de Software
+
